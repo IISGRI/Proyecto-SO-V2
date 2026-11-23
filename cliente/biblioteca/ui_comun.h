@@ -1,0 +1,36 @@
+#ifndef UI_COMUN_H
+#define UI_COMUN_H
+
+#include <stdbool.h>
+#include <stddef.h>
+
+#define TECLA_ESC 27
+#define MAX_CANCIONES 40
+#define MAX_TEXTO 64
+
+typedef enum {
+    CRITERIO_NOMBRE = 0,
+    CRITERIO_ARTISTA,
+    CRITERIO_ALBUM,
+    CRITERIO_GENERO
+} CriterioBusqueda;
+
+typedef struct {
+    int id;
+    char titulo[MAX_TEXTO];
+    char artista[MAX_TEXTO];
+    char album[MAX_TEXTO];
+    char genero[MAX_TEXTO];
+    char duracion[10];
+    double precio;
+} CancionUI;
+
+/* Se llama al presionar ENTER sobre una cancion de la lista */
+typedef void (*AccionCancion)(const CancionUI *cancion);
+
+const char *nombre_criterio(CriterioBusqueda c);
+bool validar_texto(const char *raw, char *out, size_t out_size);
+bool contiene_texto(const char *haystack, const char *needle);
+void mostrar_mensaje_ui(const char *msg);
+
+#endif

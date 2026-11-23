@@ -1,0 +1,158 @@
+[02:15:09] Servidor listo (PID 9505). Esperando clientes... (Ctrl+C para salir)
+[02:15:55] [PID 9562] Cliente conectado (hilo atendiendolo)
+[02:34:33] [PID 9562] Solicita LOGIN (usuario 'fdrgdrgdg')
+[02:34:33] [PID 9562] Resultado ERROR: Usuario o contrasena incorrectos
+[02:34:45] [PID 9562] Solicita LOGIN (usuario 'a')
+[02:34:45] [PID 9562] Resultado ERROR: Usuario o contrasena incorrectos
+[02:36:01] [PID 9562] Solicita REGISTRO (usuario 'liam')
+[02:36:01] [PID 9562] Resultado OK: Cuenta creada correctamente
+[02:36:15] [PID 9562] Solicita LOGIN (usuario 'Liam')
+[02:36:15] [PID 9562] Resultado ERROR: Usuario o contrasena incorrectos
+[02:37:04] [PID 9562] Solicita LOGIN (usuario 'liam')
+[02:37:04] [PID 9562] Resultado OK: Bienvenido
+[02:37:16] [PID 9562] Solicita VER_BIBLIOTECA (usuario 'liam')
+[02:37:16] [PID 9562] Resultado OK: OK
+[02:37:43] [PID 9562] Solicita VER_BIBLIOTECA (usuario 'liam')
+[02:37:43] [PID 9562] Resultado OK: OK
+[02:38:12] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:12] [PID 9562] Resultado OK: OK
+[02:38:17] [PID 9562] Solicita VER_BIBLIOTECA (usuario 'liam')
+[02:38:17] [PID 9562] Resultado OK: OK
+[02:38:20] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:20] [PID 9562] Resultado OK: OK
+[02:38:28] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:28] [PID 9562] Resultado OK: OK
+[02:38:31] [PID 9562] Solicita CREAR_PLAYLIST (usuario 'liam')
+[02:38:31] [PID 9562] Resultado OK: Playlist creada
+[02:38:33] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:33] [PID 9562] Resultado OK: OK
+[02:38:37] [PID 9562] Solicita CREAR_PLAYLIST (usuario 'liam')
+[02:38:37] [PID 9562] Resultado OK: Playlist creada
+[02:38:37] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:37] [PID 9562] Resultado OK: OK
+[02:38:41] [PID 9562] Solicita VER_BIBLIOTECA (usuario 'liam')
+[02:38:41] [PID 9562] Resultado OK: OK
+[02:38:42] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:42] [PID 9562] Resultado OK: OK
+[02:38:49] [PID 9562] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[02:38:49] [PID 9562] Resultado OK: Cancion agregada a la playlist
+[02:38:52] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:52] [PID 9562] Resultado OK: OK
+[02:38:54] [PID 9562] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[02:38:54] [PID 9562] Resultado OK: Cancion agregada a la playlist
+[02:38:57] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:38:57] [PID 9562] Resultado OK: OK
+[02:38:59] [PID 9562] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[02:38:59] [PID 9562] Resultado OK: Cancion agregada a la playlist
+[02:39:05] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:39:05] [PID 9562] Resultado OK: OK
+[02:39:06] [PID 9562] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[02:39:06] [PID 9562] Resultado OK: OK
+[02:39:42] [PID 9562] Solicita QUITAR_DE_PLAYLIST (usuario 'liam')
+[02:39:42] [PID 9562] Resultado OK: Cancion eliminada de la playlist
+[02:39:43] [PID 9562] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[02:39:43] [PID 9562] Resultado OK: OK
+[02:39:51] [PID 9562] Solicita ELIMINAR_PLAYLIST (usuario 'liam')
+[02:39:51] [PID 9562] Resultado OK: Playlist eliminada
+[02:39:51] [PID 9562] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:39:51] [PID 9562] Resultado OK: OK
+[02:40:16] [PID 9562] Solicita CERRAR_SESION (usuario 'liam')
+[02:40:16] [PID 9562] Resultado OK: Sesion cerrada
+[02:40:18] [PID 9562] Cliente desconectado
+[02:42:44] [PID 10367] Cliente conectado (hilo atendiendolo)
+[02:42:59] [PID 10367] Solicita LOGIN (usuario 'sfsef')
+[02:42:59] [PID 10367] Resultado ERROR: Usuario o contrasena incorrectos
+[02:46:02] [PID 10367] Cliente desconectado
+[02:46:15] Cerrando servidor...
+[02:46:15] Memoria compartida y semaforos eliminados. Adios.
+[02:54:11] Servidor listo (PID 10649). Esperando clientes... (Ctrl+C para salir)
+[02:54:20] [PID 10666] Cliente conectado (hilo atendiendolo)
+[02:54:25] [PID 10666] Cliente desconectado
+[02:54:32] Cerrando servidor...
+[02:54:32] Memoria compartida y semaforos eliminados. Adios.
+[02:55:00] Servidor listo (PID 10747). Esperando clientes... (Ctrl+C para salir)
+[02:55:06] [PID 10759] Cliente conectado (hilo atendiendolo)
+[02:55:41] [PID 10759] Solicita LOGIN (usuario 'liam')
+[02:55:41] [PID 10759] Resultado ERROR: Usuario o contrasena incorrectos
+[02:55:56] [PID 10759] Solicita LOGIN (usuario 'liam')
+[02:55:56] [PID 10759] Resultado OK: Bienvenido
+[02:55:59] [PID 10759] Solicita VER_BIBLIOTECA (usuario 'liam')
+[02:55:59] [PID 10759] Resultado OK: OK
+[02:56:18] [PID 10759] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:56:18] [PID 10759] Resultado OK: OK
+[02:56:21] [PID 10759] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[02:56:21] [PID 10759] Resultado OK: Cancion agregada a la playlist
+[02:57:18] [PID 10759] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:57:18] [PID 10759] Resultado OK: OK
+[02:57:19] [PID 10759] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[02:57:19] [PID 10759] Resultado OK: OK
+[02:57:30] [PID 10759] Solicita CREAR_PLAYLIST (usuario 'liam')
+[02:57:30] [PID 10759] Resultado OK: Playlist creada
+[02:57:31] [PID 10759] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:57:31] [PID 10759] Resultado OK: OK
+[02:57:35] [PID 10759] Solicita ELIMINAR_PLAYLIST (usuario 'liam')
+[02:57:35] [PID 10759] Resultado OK: Playlist eliminada
+[02:57:36] [PID 10759] Solicita VER_PLAYLISTS (usuario 'liam')
+[02:57:36] [PID 10759] Resultado OK: OK
+[02:57:38] [PID 10759] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[02:57:38] [PID 10759] Resultado OK: OK
+[02:57:43] [PID 10759] Solicita QUITAR_DE_PLAYLIST (usuario 'liam')
+[02:57:43] [PID 10759] Resultado OK: Cancion eliminada de la playlist
+[02:57:43] [PID 10759] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[02:57:43] [PID 10759] Resultado OK: OK
+[02:57:52] [PID 10759] Solicita CERRAR_SESION (usuario 'liam')
+[02:57:52] [PID 10759] Resultado OK: Sesion cerrada
+[02:59:22] [PID 10759] Solicita REGISTRO (usuario 'juan')
+[02:59:22] [PID 10759] Resultado OK: Cuenta creada correctamente
+[02:59:38] [PID 10759] Solicita LOGIN (usuario 'juan')
+[02:59:38] [PID 10759] Resultado OK: Bienvenido
+[02:59:41] [PID 10759] Solicita VER_PLAYLISTS (usuario 'juan')
+[02:59:41] [PID 10759] Resultado OK: OK
+[02:59:58] [PID 10954] Cliente conectado (hilo atendiendolo)
+[03:00:11] [PID 10954] Solicita LOGIN (usuario 'liam')
+[03:00:11] [PID 10954] Resultado OK: Bienvenido
+[03:00:13] [PID 10954] Solicita VER_BIBLIOTECA (usuario 'liam')
+[03:00:13] [PID 10954] Resultado OK: OK
+[03:00:15] [PID 10954] Solicita VER_PLAYLISTS (usuario 'liam')
+[03:00:15] [PID 10954] Resultado OK: OK
+[03:00:15] [PID 10954] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[03:00:15] [PID 10954] Resultado OK: Cancion agregada a la playlist
+[03:00:23] [PID 10954] Solicita VER_PLAYLISTS (usuario 'liam')
+[03:00:23] [PID 10954] Resultado OK: OK
+[03:00:25] [PID 10954] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[03:00:25] [PID 10954] Resultado OK: OK
+[03:00:30] [PID 10954] Solicita VER_CANCIONES_PLAYLIST (usuario 'liam')
+[03:00:30] [PID 10954] Resultado OK: OK
+[03:00:36] [PID 10954] Solicita VER_BIBLIOTECA (usuario 'liam')
+[03:00:36] [PID 10954] Resultado OK: OK
+[03:00:39] [PID 10954] Solicita VER_PLAYLISTS (usuario 'liam')
+[03:00:39] [PID 10954] Resultado OK: OK
+[03:00:40] [PID 10954] Solicita AGREGAR_A_PLAYLIST (usuario 'liam')
+[03:00:40] [PID 10954] Resultado ERROR: La cancion ya esta en esa playlist
+[03:00:49] [PID 10759] Solicita VER_BIBLIOTECA (usuario 'juan')
+[03:00:49] [PID 10759] Resultado OK: OK
+[03:00:50] [PID 10759] Solicita VER_PLAYLISTS (usuario 'juan')
+[03:00:50] [PID 10759] Resultado OK: OK
+[03:00:54] [PID 10759] Solicita VER_PLAYLISTS (usuario 'juan')
+[03:00:54] [PID 10759] Resultado OK: OK
+[03:00:58] [PID 10759] Solicita CREAR_PLAYLIST (usuario 'juan')
+[03:00:58] [PID 10759] Resultado OK: Playlist creada
+[03:00:59] [PID 10759] Solicita VER_PLAYLISTS (usuario 'juan')
+[03:00:59] [PID 10759] Resultado OK: OK
+[03:01:07] [PID 10759] Solicita VER_BIBLIOTECA (usuario 'juan')
+[03:01:07] [PID 10759] Resultado OK: OK
+[03:01:08] [PID 10759] Solicita VER_PLAYLISTS (usuario 'juan')
+[03:01:08] [PID 10759] Resultado OK: OK
+[03:01:09] [PID 10759] Solicita AGREGAR_A_PLAYLIST (usuario 'juan')
+[03:01:09] [PID 10759] Resultado OK: Cancion agregada a la playlist
+[03:01:19] [PID 10954] Solicita VER_PLAYLISTS (usuario 'liam')
+[03:01:19] [PID 10954] Resultado OK: OK
+[03:01:23] [PID 10954] Solicita CREAR_PLAYLIST (usuario 'liam')
+[03:01:23] [PID 10954] Resultado OK: Playlist creada
+[03:01:23] [PID 10954] Solicita VER_PLAYLISTS (usuario 'liam')
+[03:01:23] [PID 10954] Resultado OK: OK
+[03:09:27] [PID 10759] Solicita CERRAR_SESION (usuario 'juan')
+[03:09:27] [PID 10759] Resultado OK: Sesion cerrada
+[03:09:32] [PID 10759] Cliente desconectado
+[03:09:41] Cerrando servidor...
+[03:09:42] Memoria compartida y semaforos eliminados. Adios.
